@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Reet Pratayay! 👋
 
-<!--
-**reetp14/reetp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Senior Software Engineer, passionate about building impactful solutions and solving complex problems. I have an insatiable curiosity and love thinking outside the box. My interest in technology drives me to constantly explore new tools, languages, and frameworks to improve my skills.
 
-Here are some ideas to get you started:
+## Technologies
+My tech stack includes but not limited to:
+- **Languages**: TypeScript, JavaScript, Go
+- **Frontend**: React
+- **Backend**: Node.js
+- **Database**: SQL, DynamoDB
+- **Cache**: Redis
+- **Cloud Services**: AWS (Lambda, S3)
+- **Others**: Other AWS Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Currently, I am working on projects related to Payments. In the past, I have worked on projects related to Payroll and Insights, which has provided me with a diverse experience in various domains.
+
+## Contact Me
+Feel free to reach out to me at:
+- 📧 reet.p14@gmail.com
+- 📞 9265712854
+- [LinkedIn](https://linkedin.com/reetp1)
+
+---
+
