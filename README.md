@@ -1,4 +1,4 @@
-# Hi there, I'm Reet Pratayay! 👋
+# Hi there, I'm Reet! 👋
 
 ## About Me
 I'm a Senior Software Engineer, passionate about building impactful solutions and solving complex problems. I have an insatiable curiosity and love thinking outside the box. My interest in technology drives me to constantly explore new tools, languages, and frameworks to improve my skills.
