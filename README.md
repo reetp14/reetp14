@@ -6,11 +6,13 @@ I'm a Senior Software Engineer, passionate about building impactful solutions an
 ## Technologies
 My tech stack includes but not limited to:
 - **Languages**: TypeScript, JavaScript, Go
-- **Frontend**: React
-- **Backend**: Node.js
+- **Frontend**: React, Server Side Rendering
+- **Backend**: Node.js, GoLang
 - **Database**: SQL, DynamoDB
 - **Cache**: Redis
 - **Cloud Services**: AWS (Lambda, S3)
+- **Communication**: gRPC, Protocol Buffers
+- **Architecture**: Distributed Systems, Microservices
 - **Others**: Other AWS Services
 
 ## Projects
@@ -23,4 +25,3 @@ Feel free to reach out to me at:
 - [LinkedIn](https://linkedin.com/reetp1)
 
 ---
-
